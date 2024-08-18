@@ -1,0 +1,14 @@
+{
+    "Sessions": [
+        {
+            "air_cooler": {
+                "Subscriptions": {}
+            }
+        },
+        {
+            "mqttx_ffc99bb3": {
+                "Subscriptions": {}
+            }
+        }
+    ]
+}
