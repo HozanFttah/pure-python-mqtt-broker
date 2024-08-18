@@ -6,7 +6,7 @@ An MQTT broker using MQTT version 3.1.1 written in Python using no external libr
 ## Quick start
 1. Clone repository:
 ```bash
-git clone https://github.com/Adilius/MQTT-Broker-Python.git
+  https://github.com/HozanFttah/pure-python-mqtt-broker.git
 ```
 
 2. Run broker:
